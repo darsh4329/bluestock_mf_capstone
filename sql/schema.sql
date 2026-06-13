@@ -1,5 +1,5 @@
 -- ============================================
--- PostgreSQL Star Schema for Mutual Fund Analytics
+-- PostgreSQL/Sqlite Star Schema for Mutual Fund Analytics
 -- ============================================
 
 -- Dimension: Fund
