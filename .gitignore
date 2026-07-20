@@ -12,9 +12,11 @@ __pycache__/
 # VS Code settings
 .vscode/
 
-# OS junk
+# OS junk & temp files
 .DS_Store
 Thumbs.db
+.tmp.driveupload/
+
 
 # Data files (optional - if too large, uncomment next two lines)
 # data/raw/*.csv
